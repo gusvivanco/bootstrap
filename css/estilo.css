@@ -1,0 +1,87 @@
+
+.encabezado {
+    background-color: #72737245;
+    border-bottom: 2px solid  #fd2525;
+}
+
+body {
+    background: #72737220;
+}
+
+h1 {
+    color: #fd2525;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.cardHome {
+    margin-top: 10rem;
+}
+
+.cardHome h2{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.cardHome img{
+    height: 480px;
+    object-fit: cover;
+}
+
+.cardHome p{
+    text-align: justify;
+}
+
+
+.cardPages {
+    margin-top: 2rem;
+}
+
+.cardPages h2{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    color: darkblue;
+}
+
+.cardPages img{
+    height: 480px;
+    object-fit: cover;
+}
+
+.cardPages p{
+    text-align: justify;
+}
+/* Carousel */
+.carouselCss {
+    margin-top: 2rem;
+}
+
+.imgCarousel {
+    height: 480px;
+    object-fit: cover;
+}
+
+.fondoForm {
+    background: url(../img/fondoOk.jpg) no-repeat;
+    background-size: cover;
+}
+
+.textAlign {
+    text-align: center;
+}
+
+.textAlign img{
+    width: 80%;
+    height: 200px;
+}
+
+.cardBox {
+    justify-content: center;
+}
+
+footer {
+    text-align: center;
+    border-top: 2px solid  #fd2525 ;
+}
